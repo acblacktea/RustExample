@@ -24,5 +24,5 @@ fn main() {
 
     let int = 5;
     let num: Number = int.into();
-    println!("My number is {:?}", num);
+    println!("my number is {:?}", num);
 }
